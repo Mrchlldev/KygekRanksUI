@@ -40,11 +40,11 @@ class Commands extends Command implements PluginOwned {
 
 	public function __construct(Main $main, string $desc, array $aliases) {
 		$this->main = $main;
-		$this->prefix = TextFormat::YELLOW . "[KygekRanksUI] ";
+		$this->prefix = TextFormat::YELLOW . "[§l§eOSFORCE§r§f] ";
 		if ($desc == null) {
 			$desc = "Information about ranks in the server";
 		}
-		parent::__construct("ranks", $desc, "/ranks", $aliases);
+		parent::__construct("rankinfo", $desc, "/rankinfo", $aliases);
 		$this->setPermission("kygekranksui.ranks");
 	}
 
