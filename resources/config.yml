@@ -23,7 +23,7 @@ command-aliases: []
 
 # Title of the main form of KygekRanksUI
 # It will be shown right after the player typed the /ranks command
-title: "§l§eOSFORCE NETWORK"
+title: " §l§b»§r§7 [§bRanks§7]"
 # Content of the main form of KygekRanksUI
 # You can add general info about the ranks below
 content: "Buy Ranks At: §e+62 813-8647-0421"
@@ -65,15 +65,15 @@ ranks:
     button-image: ""
     title: " §l§b»§r§7 [§bS&K§7]"
     content: "§l§fSYARAT & KETENTUAN§r\n\n§f===================\n§e»§f Tidak Bisa Reff Saldo/Uang.\n§e»§f Transfer Rank Harus Membayar 5k.\n§e»§f Ganti Gamertag = Rank Hangus.\n§e»§f Jika Membeli Harap Tidak Spam.\n§e»§f Up Season Rank Tidak Akan Hangus.\n§f==================="
-  Rank2:
-    menu-button: "Rank2"
-    button-image: ""
-    title: "Rank2"
-    content: "Change in config.yml!"
-  Rank3:
-    menu-button: "Rank3"
-    button-image: ""
-    title: "Rank3"
-    content: "Change in config.yml!"
+  PURPLE:
+    menu-button: ""
+    button-image: "textures/ui/permissions_member_star"
+    title: ""
+    content: ""
+  VIP:
+    menu-button: ""
+    button-image: "textures/ui/permissions_member_star"
+    title: ""
+    content: ""
   # You can add more if you need by following the format above
 ...
