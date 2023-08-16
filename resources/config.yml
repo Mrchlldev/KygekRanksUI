@@ -60,11 +60,11 @@ return-to-main: true
 
 # Change here:
 ranks:
-  Rank1:
-    menu-button: "Rank1"
+  S&K:
+    menu-button: "Syarat & Ketentuan"
     button-image: ""
-    title: "Rank1"
-    content: "Change in config.yml!"
+    title: " §l§b»§r§7 [§bS&K§7]"
+    content: "§l§fSYARAT & KETENTUAN§r\n\n§f===================\n§e»§f Tidak Bisa Reff Saldo/Uang.\n§e»§f Transfer Rank Harus Membayar 5k.\n§e»§f Ganti Gamertag = Rank Hangus.\n§e»§f Jika Membeli Harap Tidak Spam.\n§e»§f Up Season Rank Tidak Akan Hangus.\n§f==================="
   Rank2:
     menu-button: "Rank2"
     button-image: ""
